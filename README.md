@@ -31,11 +31,11 @@ This project demonstrates a production-style data warehouse built from scratch u
 4. **Analytics & Reporting** — Wrote SQL-based reports uncovering insights across customer behaviour, product performance, and sales trends to support strategic business decisions.
 
 🎯 Skills Demonstrated: 
-SQL Development |
-Data Architecture  |
-Data Engineering  |
-ETL Pipeline Development  |
-Data Modeling  |
+SQL Development | 
+Data Architecture  | 
+Data Engineering  | 
+ETL Pipeline Development  | 
+Data Modeling  | 
 Data Analytics
  
 ---
