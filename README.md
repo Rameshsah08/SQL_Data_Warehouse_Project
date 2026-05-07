@@ -48,8 +48,8 @@ Everything used in this project is **free and open-source!**
 - **[MySQL Community Server](https://dev.mysql.com/downloads/mysql/):** Free, open-source relational database for hosting your data warehouse.
 - **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/):** Official GUI for designing, managing, and querying your MySQL database.
 - **[Git & GitHub](https://github.com/):** Version control and collaboration for managing project code efficiently.
-- **[DrawIO](https://www.drawio.com/):** Design data architecture diagrams, data flow diagrams, and data models.
-- **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Project planning template for tracking phases and tasks.
+- **[DrawIO](https://app.diagrams.net/#G1BS49VMa_6rNBMVTftVlIBNWJD5B8kVr4#%7B%22pageId%22%3A%22pyaN47I_QU9WjZoiCXYB%22%7D):** Design data architecture diagrams, data flow diagrams, and data models.
+- **[Notion](https://www.notion.so/Data-Warehouse-Project-354a12eedddc80eebaa7fcc708d45c9b):** Project planning template for tracking phases and tasks.
 
 ---
 
