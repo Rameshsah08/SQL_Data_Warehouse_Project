@@ -28,13 +28,14 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable business insights.
 
-🎯 This repository is an excellent resource for students and professionals looking to showcase expertise in:
-- SQL Development
-- Data Architecture
-- Data Engineering
-- ETL Pipeline Development
-- Data Modeling
-- Data Analytics
+🎯 Through this project, I demonstrate hands-on expertise in:
+
+SQL Development
+Data Architecture
+Data Engineering
+ETL Pipeline Development
+Data Modeling
+Data Analytics
 
 ---
 
