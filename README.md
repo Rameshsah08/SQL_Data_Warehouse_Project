@@ -30,13 +30,12 @@ This project involves:
 
 🎯 Through this project, I demonstrate hands-on expertise in:
 
- **SQL Development
- **Data Architecture
- **Data Engineering
- **ETL Pipeline Development
- **Data Modeling
- **Data Analytics
-
+SQL Development
+Data Architecture
+Data Engineering
+ETL Pipeline Development
+Data Modeling
+Data Analytics
 ---
 
 ## 🛠️ Tools & Technologies
