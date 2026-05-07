@@ -25,13 +25,10 @@ This project demonstrates a production-style data warehouse built from scratch u
 
 🔷What I Built
 
-1. **Data Architecture** — Designed a modern data warehouse following Medallion Architecture (Bronze → Silver → Gold), ensuring clean separation between raw, processed, and analytical data layers.
-2. 
-3. **ETL Pipelines** — Engineered end-to-end pipelines to extract data from ERP and CRM source systems (CSV files), apply multi-stage transformations, and load into MySQL using a Batch Processing / Truncate & Insert strategy.
-4. 
-5. **Data Modelin** — Developed a Star Schema with optimized fact and dimension tables in the Gold Layer to support fast, reliable analytical queries.
-6. 
-7. **Analytics & Reporting** — Wrote SQL-based reports uncovering insights across customer behaviour, product performance, and sales trends to support strategic business decisions.
+1. **Data Architecture** — Designed a modern data warehouse following Medallion Architecture (Bronze → Silver → Gold), ensuring clean separation between raw, processed, and analytical data layers. 
+2. **ETL Pipelines** — Engineered end-to-end pipelines to extract data from ERP and CRM source systems (CSV files), apply multi-stage transformations, and load into MySQL using a Batch Processing / Truncate & Insert strategy. 
+3. **Data Modelin** — Developed a Star Schema with optimized fact and dimension tables in the Gold Layer to support fast, reliable analytical queries. 
+4. **Analytics & Reporting** — Wrote SQL-based reports uncovering insights across customer behaviour, product performance, and sales trends to support strategic business decisions.
 
 🎯 Skills Demonstrated: 
 SQL Development |
