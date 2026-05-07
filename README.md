@@ -21,22 +21,21 @@ The data architecture follows **Medallion Architecture** with **Bronze**, **Silv
 
 ## 📖 Project Overview
 
-This project involves:
+This project demonstrates a production-style data warehouse built from scratch using MySQL Workbench, designed to consolidate raw business data into meaningful, analytics-ready insights. It covers the full data engineering lifecycle — from ingesting raw source files to delivering business-ready models for reporting and decision-making.
+🔷 What I Built
 
-1. **Data Architecture**: Designing a Modern Data Warehouse using Medallion Architecture (Bronze → Silver → Gold).
-2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse using MySQL.
-3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable business insights.
+Data Architecture — Designed a modern data warehouse following Medallion Architecture (Bronze → Silver → Gold), ensuring clean separation between raw, processed, and analytical data layers.
+ETL Pipelines — Engineered end-to-end pipelines to extract data from ERP and CRM source systems (CSV files), apply multi-stage transformations, and load into MySQL using a Batch Processing / Truncate & Insert strategy.
+Data Modeling — Developed a Star Schema with optimized fact and dimension tables in the Gold Layer to support fast, reliable analytical queries.
+Analytics & Reporting — Wrote SQL-based reports uncovering insights across customer behaviour, product performance, and sales trends to support strategic business decisions.
 
-🎯 Through this project, I demonstrate hands-on expertise in:
-
- SQL Development
- Data Architecture
- Data Engineering
- ETL Pipeline Development
- Data Modeling
- Data Analytics
-
+🎯 Skills Demonstrated: 
+SQL Development  
+Data Architecture  
+Data Engineering  
+ETL Pipeline Development  
+Data Modeling  
+Data Analytics
  
 ---
 
