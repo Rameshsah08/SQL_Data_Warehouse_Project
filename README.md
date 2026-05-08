@@ -134,11 +134,12 @@ Follow these steps to set up and run the project on your local machine:
 
 ## 🌟 About Me
 
-Hi there! I'm **Ramesh Sah**, an aspiring data professional passionate about turning raw data into meaningful insights. I'm currently building my portfolio with hands-on projects in SQL, data engineering, and analytics to kick-start my career in the data industry.
-
+Hi there! I'm Ramesh Sah, a Computer Science student at the University for the Creative Arts, Farnham, passionate about turning raw data into meaningful insights. I'm actively building my portfolio through hands-on projects in SQL, data engineering, and analytics — with the goal of landing a job or internship in the data industry.
+This project is part of my personal portfolio to demonstrate real-world data engineering skills to potential employers.
 Feel free to check out my work and connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rameshsah08/SQL_Data_Warehouse_Project)
+[![Linkdln](https://www.linkedin.com/feed/)
 
 ---
 
